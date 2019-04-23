@@ -1,0 +1,2 @@
+# PutridanDesi
+Aplikasi perhitungan gaji.
